@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="128" viewBox="0 0 320 128" role="img" aria-labelledby="title">
+  <title>Scuola Superiore Sant'Anna</title>
+  <rect width="320" height="128" rx="10" fill="#ffffff"/>
+  <circle cx="52" cy="50" r="28" fill="none" stroke="#b63a3d" stroke-width="2.5"/>
+  <path d="M39 60h26M43 53h18M46 46h12" stroke="#b63a3d" stroke-width="2" stroke-linecap="round"/>
+  <text x="94" y="58" fill="#b63a3d" font-family="Georgia, 'Times New Roman', serif" font-size="34">Sant'Anna</text>
+  <text x="94" y="82" fill="#555555" font-family="Inter, Arial, sans-serif" font-size="14">Scuola Universitaria Superiore Pisa</text>
+</svg>

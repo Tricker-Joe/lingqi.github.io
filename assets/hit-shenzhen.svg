@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="128" viewBox="0 0 320 128" role="img" aria-labelledby="title">
+  <title>Harbin Institute of Technology Shenzhen</title>
+  <rect width="320" height="128" rx="10" fill="#0d6b86"/>
+  <circle cx="64" cy="46" r="24" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <path d="M47 58h34M52 50h24M56 42h16" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <text x="109" y="49" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">HIT</text>
+  <text x="109" y="74" fill="#d9f3fb" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600">Harbin Institute of Technology</text>
+  <text x="109" y="96" fill="#d9f3fb" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600">Shenzhen</text>
+</svg>
