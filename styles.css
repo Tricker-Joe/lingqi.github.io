@@ -158,6 +158,28 @@ a:hover {
   font-weight: 600;
 }
 
+.hero-profile {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  max-width: 42rem;
+  margin-top: 28px;
+}
+
+.hero-profile img {
+  width: 96px;
+  height: 96px;
+  border-radius: 8px;
+  object-fit: cover;
+  border: 1px solid rgba(247, 248, 245, 0.24);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+}
+
+.hero-profile p {
+  margin: 0;
+  color: rgba(247, 248, 245, 0.88);
+}
+
 .hero-links {
   display: flex;
   flex-wrap: wrap;
@@ -324,6 +346,25 @@ a:hover {
   max-width: 90ch;
 }
 
+.news-list {
+  display: grid;
+  gap: 14px;
+}
+
+.news-list a {
+  display: block;
+  padding: 18px 20px;
+  border: 1px solid var(--line);
+  background: rgba(255, 253, 250, 0.9);
+  color: var(--text);
+  text-decoration: none;
+}
+
+.news-list a:hover {
+  color: var(--accent);
+  border-color: rgba(14, 106, 138, 0.24);
+}
+
 strong {
   color: #101827;
 }
@@ -343,6 +384,10 @@ sup {
 
   .hero-content {
     padding: 88px 0 72px;
+  }
+
+  .hero-profile {
+    align-items: start;
   }
 
   .intro-grid,
@@ -383,6 +428,11 @@ sup {
   .hero-links a {
     width: 100%;
     justify-content: center;
+  }
+
+  .hero-profile {
+    flex-direction: column;
+    align-items: start;
   }
 
   .section {
